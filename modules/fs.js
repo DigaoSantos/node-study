@@ -38,6 +38,6 @@ fs.writeFile(path.join(__dirname, '/test', 'test.txt'), 'hello node!', (error) =
 
         console.log(data)
     })
-    
+
 })
 
